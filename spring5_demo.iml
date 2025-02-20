@@ -4,7 +4,7 @@
     <facet type="Spring" name="Spring">
 
       <configuration>
-        <fileset id="fileset" name="Bean1" removed="false">
+        <fileset id="fileset123" name="Bean1" removed="false">
           <file>file://$MODULE_DIR$/src/bean1.xml</file>
         </fileset>
         <fileset id="fileset2" name="Bean2" removed="false">
